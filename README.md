@@ -1,17 +1,17 @@
 # Pre-work - *Tip Calculator for iOS*
 
-**Name of your app* is a tip calculator application for iOS.
+**Tip Calculator for iOS** is a tip calculator application for iOS.
 
 Submitted by: **Kervens Delpe**
 
-Time spent: **1 hour and half** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -24,13 +24,12 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-I can add the settings to the calculator to make default tip setting.
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/FJbWxV4.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
